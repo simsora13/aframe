@@ -1,27 +1,59 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Torus</title>
-    <meta name="description" content="Torus - A-Frame">
-    <script src="../../../dist/aframe.js"></script>
-  </head>
+<head>
+  <title>My A-Frame Scene</title>
+  <script src="https://aframe.io/releases/0.2.0/aframe.min.js"></script>
+  <script src="https://cdn.rawgit.com/AltspaceVR/aframe-altspace-component/v0.2.2/dist/aframe-altspace-component.min.js"></script>
+</head>
   <body>
-    <a-scene>
-      <a-torus></a-torus>
-      <a-torus color="lightblue" position="0 2 -5" segments-radial="50" segments-tubular="200"
-               radius="5"></a-torus>
-      <a-torus color="green" position="2 3 -5" segments-radial="10"></a-torus>
-      <a-torus color="green" position="-2 3 -5" segments-tubular="20"></a-torus>
-      <a-torus color="tomato" position="0 0 -5" arc="-200"></a-torus>
-      <a-torus color="coral" position="-4 0 0"></a-torus>
-      <a-torus color="yellow" rotation="90 0 0" position="3 0 0"></a-torus>
-      <a-torus color="purple" rotation="0 90 0" position="7 0 -5" radius="2"
-               radius-tubular="0.2"> </a-torus>
+   <a-scene altspace scale="1 1 1" position="-1 -359.09s -1">
+      <a-assets>
+              <a-asset-item id="crate-mtl" src="/models/crate/crate.mtl"></a-asset-item>
+        <a-asset-item id="crate-obj" src="/models/crate/crate.obj"></a-asset-item>
+        <img id="sky" src="peach-gradient.jpg">
+      </a-assets>
+
       <a-entity position="0 0 4">
       	<a-camera></a-camera>
       </a-entity>
-      <a-sky color="#F2F2F2"></a-sky>
+
+      <a-obj-model src="#crate-obj" mtl="#crate-mtl"></a-obj-model>
+
+      
+      <a-sky src="#sky"></a-sky>
+
+      <a-light type="ambient" color="#ccc"></a-light>
+      <a-light color="#ddf" distance="100" intensity="0.4" type="point"></a-light>
+    <a-plane position="6 2 0" rotation="0 -90 0" width="12" height="4" src="texture.png"></a-plane> n
+  
+ 
+	 <a-plane position="1 2 -5.9" rotation="0 0 0" width="2" height="2" src="BUckletbackground.png"></a-plane>--------------------- n ----------------------- w --------------------- ----------------------- w ----------------	n -------- s ------------------- ----------------	e -------- s ------------------- w w
+    <a-plane position="-1.5 2 -5.9" rotation="0 0 0" width="2" height="2" src="pitbackground.png"></a-plane>
+	<a-plane position="-4 2 -5.9" rotation="0 0 0" width="2" height="2" src="tianabackground.png"></a-plane>
+-----------------------
+  <a-plane position="-6 2 0" rotation="0 90 0" width="12" height="4" src="texture.png"></a-plane> w------ s ------------------- ----------------	e -------- s ------------------- w w -------- s ------------------- w w
+
+	<a-plane position="-5.9 2 -4.2" rotation="0 90 0" width="3.25" height="2.75" src="tiana.png"></a-plane>	 ----------------- w w -------- s ------------------- w w
+    <a-plane position="-5.9 2 -1.5" rotation="0 90 0" width="2" height="2.5" src="buckletv2.png"></a-plane>	 --------------------- ----------------------- w ----------------	n -------- s -------------------
+	 <a-plane position="-5.9 2 1.2" rotation="0 90 0" width="3" height="2.5" src="pearl art.png"></a-plane>	 
+    <a-plane position="-5.9 2 4" rotation="0 90 0" width="2.25" height="2.5" src="bucklet 3.png"></a-plane>	 
+----------------	 
+	 <a-plane position="0 2 -6" rotation="0 0 0" width="12" height="4" src="texture.png"></a-plane>  e
+	 <a-plane position="5.9 2 0" rotation="0 -90 0" width="10" height="3" src="ss.png"></a-plane>
+w --------------------- ----------------------- w ----------------	n -------- s ------------------- ----------------	e -------- s ------------------- w w
+
+	--------
+<a-plane position="0 2 6" rotation="0 180 0" width="12" height="4" src="texture.png"></a-plane>	s
+ <a-plane position="-4.5 2 5.9" rotation="0 180 0" width="2.5" height="2" src="lou.png"></a-plane> 
+<a-plane position="0.5 2 5.9" rotation="0 180 0" width="2" height="2" src="skyia v2.png"></a-plane> 	
+ <a-plane position="-2 2 5.9" rotation="0 180 0" width="2" height="2.5" src="c k.png"></a-plane> 
+ <a-plane position="2.7 2 5.9" rotation="0 180 0" width="2" height="2.5" src="The Nudist skeleton 1.png"></a-plane> 
+ -------------------
+ <a-plane rotation="-90 0 0" position="0 -0.1 0" width="12" height="12" src="floor tile3.png" ></a-plane>
+    
+	w
+	 w
+
+     
+<a-box src="vm.png" position="5 1 5.5" depth="1" height="2" width="2"></a-box>
     </a-scene>
   </body>
 </html>
