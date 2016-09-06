@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>3D Model</title>
-    <meta name="description" content="3D Model — A-Frame">
-    <script src="../../../dist/aframe.js"></script>
-  </head>
-  <body>
-    <a-scene>
+<head>
+  <title>My A-Frame Scene</title>
+  <script src="https://aframe.io/releases/0.2.0/aframe.min.js"></script>
+  <script src="https://cdn.rawgit.com/AltspaceVR/aframe-altspace-component/v0.2.2/dist/aframe-altspace-component.min.js"></script>
+</head>
+
+<body>
+  <a-scene altspace>
      
 <a-obj-model src="models/crate.obj" mtl="models/crate.mtl"></a-obj-model>
       <a-collada-model src="#tree" rotation="0 45 0"></a-model>
