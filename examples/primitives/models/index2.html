@@ -8,16 +8,15 @@
 
 <body>
   <a-scene altspace>
- <a-assets>
-       
-        <a-asset-item id="crate-mtl" src="../../assets/models/crate/crate.mtl"></a-asset-item>
-        <a-asset-item id="crate-obj" src="../../assets/models/crate/crate.obj"></a-asset-item>
-        <img id="sky" src="peach-gradient.jpg">
-      </a-assets>
 
+<a-assets>
+    <a-asset-item id="tree-obj" src="../../assets/models/crate/crate.mtl""></a-asset-item>
+    <a-asset-item id="tree-mtl" src="../../assets/models/crate/crate.mtl""></a-asset-item>
+  </a-assets>
+  <a-entity obj-model="obj: #tree-obj; mtl: #tree-mtl"></a-entity>
      
 
-      <a-obj-model src="#crate-obj" mtl="#crate-mtl"></a-obj-model>
+   
 
      
     </a-scene>
