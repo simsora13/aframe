@@ -5,16 +5,15 @@
 </head>
   <body>
    <a-scene altspace scale="1 1 1" position="-1 -359.09s -1">
-      <a-assets>
-              <a-asset-item id="crate-mtl" src="/modelscrate.mtl"></a-asset-item>
-        <a-asset-item id="crate-obj" src="/modelscrate.obj"></a-asset-item>
+   <a-assets>
+        <a-asset-item id="tree1" src="../_models/tree1/tree1.dae"></a-asset-item>
+        <a-asset-item id="tree2" src="../_models/tree2/tree2.dae"></a-asset-item>
+        <a-asset-item id="crate-mtl" src="models/crate.mtl"></a-asset-item>
+        <a-asset-item id="crate-obj" src="models/crate.obj"></a-asset-item>
+       
       </a-assets>
 
-      <a-entity position="0 0 4">
-      	<a-camera></a-camera>
-      </a-entity>
-
-      <a-obj-model src="#crate-obj" mtl="#crate-mtl"></a-obj-model>
+      <a-obj-model src="#crate-obj" mtl="#crate-mtl"><a-obj-model>
 
       <a-sky src="../_skies/puydesancy.jpg" rotation="0 -130 0" radius="300" segments-height="45" ></a-sky>
  
