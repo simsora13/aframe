@@ -8,7 +8,6 @@
       <a-assets>
               <a-asset-item id="crate-mtl" src="../../assets/models/crate/crate.mtl"></a-asset-item>
         <a-asset-item id="crate-obj" src="../../assets/models/crate/crate.obj"></a-asset-item>
-        <img id="sky" src="peach-gradient.jpg">
       </a-assets>
 
       <a-entity position="0 0 4">
@@ -17,8 +16,8 @@
 
       <a-obj-model src="#crate-obj" mtl="#crate-mtl"></a-obj-model>
 
-      
-      <a-sky src="#sky"></a-sky>
+      <a-sky src="../_skies/puydesancy.jpg" rotation="0 -130 0" radius="300" segments-height="45" ></a-sky>
+ 
 
       <a-light type="ambient" color="#ccc"></a-light>
       <a-light color="#ddf" distance="100" intensity="0.4" type="point"></a-light>
