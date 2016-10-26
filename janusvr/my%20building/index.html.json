@@ -1,0 +1,2050 @@
+{
+    "FireBoxRoom": {
+        "Assets": {
+            "AssetImage": [
+                {
+                    "id": "thumb16",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "file:///C:/Users/Ben/Documents/janusvr/workspaces/20161025191810/thumb.jpg",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true
+                }
+            ],
+            "AssetObject": [
+                {
+                    "id": "SketchUp.011_ID1909",
+                    "mtl": "SketchUp.011_ID1909.mtl",
+                    "src": "SketchUp.011_ID1909.obj"
+                },
+                {
+                    "id": "instance_18.001_ID1041",
+                    "mtl": "instance_18.001_ID1041.mtl",
+                    "src": "instance_18.001_ID1041.obj"
+                },
+                {
+                    "id": "SketchUp.057_ID434_SketchUp.057_ID434_material.001",
+                    "mtl": "SketchUp.057_ID434_SketchUp.057_ID434_material.001.mtl",
+                    "src": "SketchUp.057_ID434_SketchUp.057_ID434_material.001.obj"
+                },
+                {
+                    "id": "SketchUp_ID3.007_SketchUp_ID3.008",
+                    "mtl": "SketchUp_ID3.007_SketchUp_ID3.008.mtl",
+                    "src": "SketchUp_ID3.007_SketchUp_ID3.008.obj"
+                },
+                {
+                    "id": "SketchUp.034_ID285_SketchUp.034_ID285_Color_H02.002",
+                    "mtl": "SketchUp.034_ID285_SketchUp.034_ID285_Color_H02.002.mtl",
+                    "src": "SketchUp.034_ID285_SketchUp.034_ID285_Color_H02.002.obj"
+                },
+                {
+                    "id": "instance_17.015_ID921.014",
+                    "mtl": "instance_17.015_ID921.014.mtl",
+                    "src": "instance_17.015_ID921.014.obj"
+                },
+                {
+                    "id": "SketchUp.012_ID1922",
+                    "mtl": "SketchUp.012_ID1922.mtl",
+                    "src": "SketchUp.012_ID1922.obj"
+                },
+                {
+                    "id": "instance_0_ID5",
+                    "mtl": "instance_0_ID5.mtl",
+                    "src": "instance_0_ID5.obj"
+                },
+                {
+                    "id": "instance_17.015_ID921.013",
+                    "mtl": "instance_17.015_ID921.013.mtl",
+                    "src": "instance_17.015_ID921.013.obj"
+                },
+                {
+                    "id": "instance_17.015_ID921.001",
+                    "mtl": "instance_17.015_ID921.001.mtl",
+                    "src": "instance_17.015_ID921.001.obj"
+                },
+                {
+                    "id": "SketchUp.205_ID805_SketchUp.205_ID805___Gainsboro_",
+                    "mtl": "SketchUp.205_ID805_SketchUp.205_ID805___Gainsboro_.mtl",
+                    "src": "SketchUp.205_ID805_SketchUp.205_ID805___Gainsboro_.obj"
+                },
+                {
+                    "id": "instance_17.015_ID921.002",
+                    "mtl": "instance_17.015_ID921.002.mtl",
+                    "src": "instance_17.015_ID921.002.obj"
+                },
+                {
+                    "id": "SketchUp.199_ID767_SketchUp.199_ID767_material_0.002",
+                    "mtl": "SketchUp.199_ID767_SketchUp.199_ID767_material_0.002.mtl",
+                    "src": "SketchUp.199_ID767_SketchUp.199_ID767_material_0.002.obj"
+                },
+                {
+                    "id": "SketchUp.034_ID285_SketchUp.034_ID285_material_0.001",
+                    "mtl": "SketchUp.034_ID285_SketchUp.034_ID285_material_0.001.mtl",
+                    "src": "SketchUp.034_ID285_SketchUp.034_ID285_material_0.001.obj"
+                },
+                {
+                    "id": "ID71",
+                    "mtl": "ID71.mtl",
+                    "src": "ID71.obj"
+                },
+                {
+                    "id": "ID73.002",
+                    "mtl": "ID73.002.mtl",
+                    "src": "ID73.002.obj"
+                },
+                {
+                    "id": "ID70",
+                    "mtl": "ID70.mtl",
+                    "src": "ID70.obj"
+                },
+                {
+                    "id": "instance_17.022_ID963.001",
+                    "mtl": "instance_17.022_ID963.001.mtl",
+                    "src": "instance_17.022_ID963.001.obj"
+                },
+                {
+                    "id": "ID102",
+                    "mtl": "ID102.mtl",
+                    "src": "ID102.obj"
+                },
+                {
+                    "id": "ID73.001",
+                    "mtl": "ID73.001.mtl",
+                    "src": "ID73.001.obj"
+                },
+                {
+                    "id": "ID84",
+                    "mtl": "ID84.mtl",
+                    "src": "ID84.obj"
+                },
+                {
+                    "id": "atyamodol1_atyamodol1_atyamodoll.png",
+                    "mtl": "atyamodol1_atyamodol1_atyamodoll.png.mtl",
+                    "src": "atyamodol1_atyamodol1_atyamodoll.png.obj"
+                },
+                {
+                    "id": "SketchUp.058_ID440_SketchUp.058_ID440_material_0",
+                    "mtl": "SketchUp.058_ID440_SketchUp.058_ID440_material_0.mtl",
+                    "src": "SketchUp.058_ID440_SketchUp.058_ID440_material_0.obj"
+                },
+                {
+                    "id": "ID3",
+                    "mtl": "ID3.mtl",
+                    "src": "ID3.obj"
+                },
+                {
+                    "id": "ID881",
+                    "mtl": "ID881.mtl",
+                    "src": "ID881.obj"
+                },
+                {
+                    "id": "Icosphere.002",
+                    "mtl": "Icosphere.002.mtl",
+                    "src": "Icosphere.002.obj"
+                },
+                {
+                    "id": "SketchUp.023_ID207_SketchUp.023_ID207___Charcoal_",
+                    "mtl": "SketchUp.023_ID207_SketchUp.023_ID207___Charcoal_.mtl",
+                    "src": "SketchUp.023_ID207_SketchUp.023_ID207___Charcoal_.obj"
+                },
+                {
+                    "id": "SketchUp_ID1823",
+                    "mtl": "SketchUp_ID1823.mtl",
+                    "src": "SketchUp_ID1823.obj"
+                },
+                {
+                    "id": "instance_0.003_ID47.002",
+                    "mtl": "instance_0.003_ID47.002.mtl",
+                    "src": "instance_0.003_ID47.002.obj"
+                },
+                {
+                    "id": "ID21",
+                    "mtl": "ID21.mtl",
+                    "src": "ID21.obj"
+                },
+                {
+                    "id": "SketchUp.180_ID629_SketchUp.180_ID629___Ivory_.001",
+                    "mtl": "SketchUp.180_ID629_SketchUp.180_ID629___Ivory_.001.mtl",
+                    "src": "SketchUp.180_ID629_SketchUp.180_ID629___Ivory_.001.obj"
+                },
+                {
+                    "id": "ID33.002",
+                    "mtl": "ID33.002.mtl",
+                    "src": "ID33.002.obj"
+                },
+                {
+                    "id": "SketchUp.032_ID273_SketchUp.032_ID273_material",
+                    "mtl": "SketchUp.032_ID273_SketchUp.032_ID273_material.mtl",
+                    "src": "SketchUp.032_ID273_SketchUp.032_ID273_material.obj"
+                },
+                {
+                    "id": "SketchUp_ID3.002",
+                    "mtl": "SketchUp_ID3.002.mtl",
+                    "src": "SketchUp_ID3.002.obj"
+                },
+                {
+                    "id": "instance_17.015_ID921.012",
+                    "mtl": "instance_17.015_ID921.012.mtl",
+                    "src": "instance_17.015_ID921.012.obj"
+                },
+                {
+                    "id": "SketchUp.222_ID909_SketchUp.222_ID909_Color_H02",
+                    "mtl": "SketchUp.222_ID909_SketchUp.222_ID909_Color_H02.mtl",
+                    "src": "SketchUp.222_ID909_SketchUp.222_ID909_Color_H02.obj"
+                },
+                {
+                    "id": "SketchUp.035_ID291_SketchUp.035_ID291_material.002",
+                    "mtl": "SketchUp.035_ID291_SketchUp.035_ID291_material.002.mtl",
+                    "src": "SketchUp.035_ID291_SketchUp.035_ID291_material.002.obj"
+                },
+                {
+                    "id": "instance_17.015_ID921.008",
+                    "mtl": "instance_17.015_ID921.008.mtl",
+                    "src": "instance_17.015_ID921.008.obj"
+                },
+                {
+                    "id": "instance_0_ID23",
+                    "mtl": "instance_0_ID23.mtl",
+                    "src": "instance_0_ID23.obj"
+                },
+                {
+                    "id": "Plane.004",
+                    "mtl": "Plane.004.mtl",
+                    "src": "Plane.004.obj"
+                },
+                {
+                    "id": "SketchUp.001_ID13.001",
+                    "mtl": "SketchUp.001_ID13.001.mtl",
+                    "src": "SketchUp.001_ID13.001.obj"
+                },
+                {
+                    "id": "instance_0_ID23.001_instance_0_ID23.003",
+                    "mtl": "instance_0_ID23.001_instance_0_ID23.003.mtl",
+                    "src": "instance_0_ID23.001_instance_0_ID23.003.obj"
+                },
+                {
+                    "id": "SketchUp.199_ID767_SketchUp.199_ID767_material_0.001",
+                    "mtl": "SketchUp.199_ID767_SketchUp.199_ID767_material_0.001.mtl",
+                    "src": "SketchUp.199_ID767_SketchUp.199_ID767_material_0.001.obj"
+                },
+                {
+                    "id": "Cube.002",
+                    "mtl": "Cube.002.mtl",
+                    "src": "Cube.002.obj"
+                },
+                {
+                    "id": "SketchUp.032_ID273_SketchUp.032_ID273_material.002",
+                    "mtl": "SketchUp.032_ID273_SketchUp.032_ID273_material.002.mtl",
+                    "src": "SketchUp.032_ID273_SketchUp.032_ID273_material.002.obj"
+                },
+                {
+                    "id": "instance_20.002_ID1665",
+                    "mtl": "instance_20.002_ID1665.mtl",
+                    "src": "instance_20.002_ID1665.obj"
+                },
+                {
+                    "id": "SketchUp.059_ID446_SketchUp.059_ID446__0098_DodgerBlue.002",
+                    "mtl": "SketchUp.059_ID446_SketchUp.059_ID446__0098_DodgerBlue.002.mtl",
+                    "src": "SketchUp.059_ID446_SketchUp.059_ID446__0098_DodgerBlue.002.obj"
+                },
+                {
+                    "id": "instance_17.015_ID921.006",
+                    "mtl": "instance_17.015_ID921.006.mtl",
+                    "src": "instance_17.015_ID921.006.obj"
+                },
+                {
+                    "id": "SketchUp.033_ID279_SketchUp.033_ID279_material",
+                    "mtl": "SketchUp.033_ID279_SketchUp.033_ID279_material.mtl",
+                    "src": "SketchUp.033_ID279_SketchUp.033_ID279_material.obj"
+                },
+                {
+                    "id": "SketchUp.009_ID1895",
+                    "mtl": "SketchUp.009_ID1895.mtl",
+                    "src": "SketchUp.009_ID1895.obj"
+                },
+                {
+                    "id": "ID90",
+                    "mtl": "ID90.mtl",
+                    "src": "ID90.obj"
+                },
+                {
+                    "id": "instance_21.001_ID1736",
+                    "mtl": "instance_21.001_ID1736.mtl",
+                    "src": "instance_21.001_ID1736.obj"
+                },
+                {
+                    "id": "instance_17.015_ID921.004",
+                    "mtl": "instance_17.015_ID921.004.mtl",
+                    "src": "instance_17.015_ID921.004.obj"
+                },
+                {
+                    "id": "ID75",
+                    "mtl": "ID75.mtl",
+                    "src": "ID75.obj"
+                },
+                {
+                    "id": "instance_17.015_ID921.005",
+                    "mtl": "instance_17.015_ID921.005.mtl",
+                    "src": "instance_17.015_ID921.005.obj"
+                },
+                {
+                    "id": "ID595",
+                    "mtl": "ID595.mtl",
+                    "src": "ID595.obj"
+                },
+                {
+                    "id": "instance_17.015_ID921",
+                    "mtl": "instance_17.015_ID921.mtl",
+                    "src": "instance_17.015_ID921.obj"
+                },
+                {
+                    "id": "instance_17.015_ID921.015",
+                    "mtl": "instance_17.015_ID921.015.mtl",
+                    "src": "instance_17.015_ID921.015.obj"
+                },
+                {
+                    "id": "Icosphere",
+                    "mtl": "Icosphere.mtl",
+                    "src": "Icosphere.obj"
+                },
+                {
+                    "id": "ID73.005",
+                    "mtl": "ID73.005.mtl",
+                    "src": "ID73.005.obj"
+                },
+                {
+                    "id": "ID114",
+                    "mtl": "ID114.mtl",
+                    "src": "ID114.obj"
+                },
+                {
+                    "id": "SketchUp.057_ID434_SketchUp.057_ID434_material.002",
+                    "mtl": "SketchUp.057_ID434_SketchUp.057_ID434_material.002.mtl",
+                    "src": "SketchUp.057_ID434_SketchUp.057_ID434_material.002.obj"
+                },
+                {
+                    "id": "instance_17.015_ID921.003",
+                    "mtl": "instance_17.015_ID921.003.mtl",
+                    "src": "instance_17.015_ID921.003.obj"
+                },
+                {
+                    "id": "instance_5.001_ID37",
+                    "mtl": "instance_5.001_ID37.mtl",
+                    "src": "instance_5.001_ID37.obj"
+                },
+                {
+                    "id": "ID60",
+                    "mtl": "ID60.mtl",
+                    "src": "ID60.obj"
+                },
+                {
+                    "id": "ID73.004",
+                    "mtl": "ID73.004.mtl",
+                    "src": "ID73.004.obj"
+                },
+                {
+                    "id": "instance_17.015_ID921.017",
+                    "mtl": "instance_17.015_ID921.017.mtl",
+                    "src": "instance_17.015_ID921.017.obj"
+                },
+                {
+                    "id": "ID52",
+                    "mtl": "ID52.mtl",
+                    "src": "ID52.obj"
+                },
+                {
+                    "id": "SketchUp.033_ID279_SketchUp.033_ID279_material_0.002",
+                    "mtl": "SketchUp.033_ID279_SketchUp.033_ID279_material_0.002.mtl",
+                    "src": "SketchUp.033_ID279_SketchUp.033_ID279_material_0.002.obj"
+                },
+                {
+                    "id": "ID79",
+                    "mtl": "ID79.mtl",
+                    "src": "ID79.obj"
+                },
+                {
+                    "id": "Plane",
+                    "mtl": "Plane.mtl",
+                    "src": "Plane.obj"
+                },
+                {
+                    "id": "ID73.006",
+                    "mtl": "ID73.006.mtl",
+                    "src": "ID73.006.obj"
+                },
+                {
+                    "id": "SketchUp.192_ID721_SketchUp.192_ID721_material.001",
+                    "mtl": "SketchUp.192_ID721_SketchUp.192_ID721_material.001.mtl",
+                    "src": "SketchUp.192_ID721_SketchUp.192_ID721_material.001.obj"
+                },
+                {
+                    "id": "instance_8.010_ID296",
+                    "mtl": "instance_8.010_ID296.mtl",
+                    "src": "instance_8.010_ID296.obj"
+                },
+                {
+                    "id": "ID258",
+                    "mtl": "ID258.mtl",
+                    "src": "ID258.obj"
+                },
+                {
+                    "id": "SketchUp.032_ID273_SketchUp.032_ID273_material_0.001",
+                    "mtl": "SketchUp.032_ID273_SketchUp.032_ID273_material_0.001.mtl",
+                    "src": "SketchUp.032_ID273_SketchUp.032_ID273_material_0.001.obj"
+                },
+                {
+                    "id": "SketchUp_ID3.001",
+                    "mtl": "SketchUp_ID3.001.mtl",
+                    "src": "SketchUp_ID3.001.obj"
+                },
+                {
+                    "id": "ID33",
+                    "mtl": "ID33.mtl",
+                    "src": "ID33.obj"
+                },
+                {
+                    "id": "SketchUp.034_ID285_SketchUp.034_ID285_material_0.002",
+                    "mtl": "SketchUp.034_ID285_SketchUp.034_ID285_material_0.002.mtl",
+                    "src": "SketchUp.034_ID285_SketchUp.034_ID285_material_0.002.obj"
+                },
+                {
+                    "id": "SketchUp.175_ID595_SketchUp.175_ID595___Gainsboro_",
+                    "mtl": "SketchUp.175_ID595_SketchUp.175_ID595___Gainsboro_.mtl",
+                    "src": "SketchUp.175_ID595_SketchUp.175_ID595___Gainsboro_.obj"
+                },
+                {
+                    "id": "SketchUp.174_ID589_SketchUp.174_ID589_material_0",
+                    "mtl": "SketchUp.174_ID589_SketchUp.174_ID589_material_0.mtl",
+                    "src": "SketchUp.174_ID589_SketchUp.174_ID589_material_0.obj"
+                },
+                {
+                    "id": "SketchUp.033_ID279_SketchUp.033_ID279_material.001",
+                    "mtl": "SketchUp.033_ID279_SketchUp.033_ID279_material.001.mtl",
+                    "src": "SketchUp.033_ID279_SketchUp.033_ID279_material.001.obj"
+                },
+                {
+                    "id": "ID39",
+                    "mtl": "ID39.mtl",
+                    "src": "ID39.obj"
+                },
+                {
+                    "id": "SketchUp.192_ID721_SketchUp.192_ID721_material_0.002",
+                    "mtl": "SketchUp.192_ID721_SketchUp.192_ID721_material_0.002.mtl",
+                    "src": "SketchUp.192_ID721_SketchUp.192_ID721_material_0.002.obj"
+                },
+                {
+                    "id": "SketchUp_ID3.008_SketchUp_ID3.009",
+                    "mtl": "SketchUp_ID3.008_SketchUp_ID3.009.mtl",
+                    "src": "SketchUp_ID3.008_SketchUp_ID3.009.obj"
+                },
+                {
+                    "id": "instance_13.033_ID636.001",
+                    "mtl": "instance_13.033_ID636.001.mtl",
+                    "src": "instance_13.033_ID636.001.obj"
+                },
+                {
+                    "id": "Plane.002_Plane.003",
+                    "mtl": "Plane.002_Plane.003.mtl",
+                    "src": "Plane.002_Plane.003.obj"
+                },
+                {
+                    "id": "SketchUp.057_ID434_SketchUp.057_ID434_material_0.001",
+                    "mtl": "SketchUp.057_ID434_SketchUp.057_ID434_material_0.001.mtl",
+                    "src": "SketchUp.057_ID434_SketchUp.057_ID434_material_0.001.obj"
+                },
+                {
+                    "id": "SketchUp_ID3.005_SketchUp_ID3.007",
+                    "mtl": "SketchUp_ID3.005_SketchUp_ID3.007.mtl",
+                    "src": "SketchUp_ID3.005_SketchUp_ID3.007.obj"
+                },
+                {
+                    "id": "SketchUp.059_ID446_SketchUp.059_ID446__0098_DodgerBlue",
+                    "mtl": "SketchUp.059_ID446_SketchUp.059_ID446__0098_DodgerBlue.mtl",
+                    "src": "SketchUp.059_ID446_SketchUp.059_ID446__0098_DodgerBlue.obj"
+                },
+                {
+                    "id": "SketchUp.059_ID446_SketchUp.059_ID446_material_0.001",
+                    "mtl": "SketchUp.059_ID446_SketchUp.059_ID446_material_0.001.mtl",
+                    "src": "SketchUp.059_ID446_SketchUp.059_ID446_material_0.001.obj"
+                },
+                {
+                    "id": "ID885",
+                    "mtl": "ID885.mtl",
+                    "src": "ID885.obj"
+                },
+                {
+                    "id": "instance_0_ID27",
+                    "mtl": "instance_0_ID27.mtl",
+                    "src": "instance_0_ID27.obj"
+                },
+                {
+                    "id": "ID742",
+                    "mtl": "ID742.mtl",
+                    "src": "ID742.obj"
+                },
+                {
+                    "id": "SketchUp.033_ID279_SketchUp.033_ID279_material.002",
+                    "mtl": "SketchUp.033_ID279_SketchUp.033_ID279_material.002.mtl",
+                    "src": "SketchUp.033_ID279_SketchUp.033_ID279_material.002.obj"
+                },
+                {
+                    "id": "Cube.001",
+                    "mtl": "Cube.001.mtl",
+                    "src": "Cube.001.obj"
+                },
+                {
+                    "id": "SketchUp.033_ID279_SketchUp.033_ID279_material_0.001",
+                    "mtl": "SketchUp.033_ID279_SketchUp.033_ID279_material_0.001.mtl",
+                    "src": "SketchUp.033_ID279_SketchUp.033_ID279_material_0.001.obj"
+                },
+                {
+                    "id": "ID73.008",
+                    "mtl": "ID73.008.mtl",
+                    "src": "ID73.008.obj"
+                },
+                {
+                    "id": "ID591",
+                    "mtl": "ID591.mtl",
+                    "src": "ID591.obj"
+                },
+                {
+                    "id": "SketchUp.205_ID805_SketchUp.205_ID805_material_0",
+                    "mtl": "SketchUp.205_ID805_SketchUp.205_ID805_material_0.mtl",
+                    "src": "SketchUp.205_ID805_SketchUp.205_ID805_material_0.obj"
+                },
+                {
+                    "id": "ID33.001",
+                    "mtl": "ID33.001.mtl",
+                    "src": "ID33.001.obj"
+                },
+                {
+                    "id": "SketchUp.192_ID721_SketchUp.192_ID721_material.002",
+                    "mtl": "SketchUp.192_ID721_SketchUp.192_ID721_material.002.mtl",
+                    "src": "SketchUp.192_ID721_SketchUp.192_ID721_material.002.obj"
+                },
+                {
+                    "id": "Icosphere.004",
+                    "mtl": "Icosphere.004.mtl",
+                    "src": "Icosphere.004.obj"
+                },
+                {
+                    "id": "SketchUp_ID3",
+                    "mtl": "SketchUp_ID3.mtl",
+                    "src": "SketchUp_ID3.obj"
+                },
+                {
+                    "id": "SketchUp.058_ID440_SketchUp.058_ID440_material.001",
+                    "mtl": "SketchUp.058_ID440_SketchUp.058_ID440_material.001.mtl",
+                    "src": "SketchUp.058_ID440_SketchUp.058_ID440_material.001.obj"
+                },
+                {
+                    "id": "Icosphere.001",
+                    "mtl": "Icosphere.001.mtl",
+                    "src": "Icosphere.001.obj"
+                },
+                {
+                    "id": "ID680",
+                    "mtl": "ID680.mtl",
+                    "src": "ID680.obj"
+                },
+                {
+                    "id": "SketchUp.035_ID291_SketchUp.035_ID291_material.001",
+                    "mtl": "SketchUp.035_ID291_SketchUp.035_ID291_material.001.mtl",
+                    "src": "SketchUp.035_ID291_SketchUp.035_ID291_material.001.obj"
+                },
+                {
+                    "id": "SketchUp.015_ID1983",
+                    "mtl": "SketchUp.015_ID1983.mtl",
+                    "src": "SketchUp.015_ID1983.obj"
+                },
+                {
+                    "id": "SketchUp.058_ID440_SketchUp.058_ID440_material.002",
+                    "mtl": "SketchUp.058_ID440_SketchUp.058_ID440_material.002.mtl",
+                    "src": "SketchUp.058_ID440_SketchUp.058_ID440_material.002.obj"
+                },
+                {
+                    "id": "whole_model_group1",
+                    "mtl": "whole_model_group1.mtl",
+                    "src": "whole_model_group1.obj"
+                },
+                {
+                    "id": "ID877",
+                    "mtl": "ID877.mtl",
+                    "src": "ID877.obj"
+                },
+                {
+                    "id": "SketchUp.032_ID273_SketchUp.032_ID273_material_0",
+                    "mtl": "SketchUp.032_ID273_SketchUp.032_ID273_material_0.mtl",
+                    "src": "SketchUp.032_ID273_SketchUp.032_ID273_material_0.obj"
+                },
+                {
+                    "id": "SketchUp.033_ID279_SketchUp.033_ID279_material_0",
+                    "mtl": "SketchUp.033_ID279_SketchUp.033_ID279_material_0.mtl",
+                    "src": "SketchUp.033_ID279_SketchUp.033_ID279_material_0.obj"
+                },
+                {
+                    "id": "instance_17.022_ID963",
+                    "mtl": "instance_17.022_ID963.mtl",
+                    "src": "instance_17.022_ID963.obj"
+                },
+                {
+                    "id": "instance_17.015_ID921.011",
+                    "mtl": "instance_17.015_ID921.011.mtl",
+                    "src": "instance_17.015_ID921.011.obj"
+                },
+                {
+                    "id": "ID409",
+                    "mtl": "ID409.mtl",
+                    "src": "ID409.obj"
+                },
+                {
+                    "id": "SketchUp.034_ID285_SketchUp.034_ID285_Color_H02.001",
+                    "mtl": "SketchUp.034_ID285_SketchUp.034_ID285_Color_H02.001.mtl",
+                    "src": "SketchUp.034_ID285_SketchUp.034_ID285_Color_H02.001.obj"
+                },
+                {
+                    "id": "instance_17.022_ID963.003",
+                    "mtl": "instance_17.022_ID963.003.mtl",
+                    "src": "instance_17.022_ID963.003.obj"
+                },
+                {
+                    "id": "SketchUp.058_ID440_SketchUp.058_ID440_material_0.001",
+                    "mtl": "SketchUp.058_ID440_SketchUp.058_ID440_material_0.001.mtl",
+                    "src": "SketchUp.058_ID440_SketchUp.058_ID440_material_0.001.obj"
+                },
+                {
+                    "id": "ID73.000",
+                    "mtl": "ID73.000.mtl",
+                    "src": "ID73.000.obj"
+                },
+                {
+                    "id": "instance_17.022_ID963.002",
+                    "mtl": "instance_17.022_ID963.002.mtl",
+                    "src": "instance_17.022_ID963.002.obj"
+                },
+                {
+                    "id": "SketchUp.011_ID112_SketchUp.011_ID112_Steve_Edges",
+                    "mtl": "SketchUp.011_ID112_SketchUp.011_ID112_Steve_Edges.mtl",
+                    "src": "SketchUp.011_ID112_SketchUp.011_ID112_Steve_Edges.obj"
+                },
+                {
+                    "id": "ID73.007",
+                    "mtl": "ID73.007.mtl",
+                    "src": "ID73.007.obj"
+                },
+                {
+                    "id": "SketchUp.035_ID291_SketchUp.035_ID291_material_0.002",
+                    "mtl": "SketchUp.035_ID291_SketchUp.035_ID291_material_0.002.mtl",
+                    "src": "SketchUp.035_ID291_SketchUp.035_ID291_material_0.002.obj"
+                },
+                {
+                    "id": "SketchUp_ID3.003",
+                    "mtl": "SketchUp_ID3.003.mtl",
+                    "src": "SketchUp_ID3.003.obj"
+                },
+                {
+                    "id": "ID73.003",
+                    "mtl": "ID73.003.mtl",
+                    "src": "ID73.003.obj"
+                },
+                {
+                    "id": "SketchUp.035_ID291_SketchUp.035_ID291_material_0",
+                    "mtl": "SketchUp.035_ID291_SketchUp.035_ID291_material_0.mtl",
+                    "src": "SketchUp.035_ID291_SketchUp.035_ID291_material_0.obj"
+                },
+                {
+                    "id": "instance_19_ID1627",
+                    "mtl": "instance_19_ID1627.mtl",
+                    "src": "instance_19_ID1627.obj"
+                },
+                {
+                    "id": "Cube",
+                    "mtl": "Cube.mtl",
+                    "src": "Cube.obj"
+                },
+                {
+                    "id": "SketchUp_ID3.009_SketchUp_ID3.010",
+                    "mtl": "SketchUp_ID3.009_SketchUp_ID3.010.mtl",
+                    "src": "SketchUp_ID3.009_SketchUp_ID3.010.obj"
+                },
+                {
+                    "id": "Cube.003",
+                    "mtl": "Cube.003.mtl",
+                    "src": "Cube.003.obj"
+                },
+                {
+                    "id": "SketchUp.057_ID434_SketchUp.057_ID434_material_0.002",
+                    "mtl": "SketchUp.057_ID434_SketchUp.057_ID434_material_0.002.mtl",
+                    "src": "SketchUp.057_ID434_SketchUp.057_ID434_material_0.002.obj"
+                },
+                {
+                    "id": "SketchUp.058_ID440_SketchUp.058_ID440_material",
+                    "mtl": "SketchUp.058_ID440_SketchUp.058_ID440_material.mtl",
+                    "src": "SketchUp.058_ID440_SketchUp.058_ID440_material.obj"
+                },
+                {
+                    "id": "SketchUp.010_ID1901",
+                    "mtl": "SketchUp.010_ID1901.mtl",
+                    "src": "SketchUp.010_ID1901.obj"
+                },
+                {
+                    "id": "SketchUp.032_ID273_SketchUp.032_ID273_material_0.002",
+                    "mtl": "SketchUp.032_ID273_SketchUp.032_ID273_material_0.002.mtl",
+                    "src": "SketchUp.032_ID273_SketchUp.032_ID273_material_0.002.obj"
+                },
+                {
+                    "id": "ID83",
+                    "mtl": "ID83.mtl",
+                    "src": "ID83.obj"
+                },
+                {
+                    "id": "ID44",
+                    "mtl": "ID44.mtl",
+                    "src": "ID44.obj"
+                },
+                {
+                    "id": "SketchUp.034_ID285_SketchUp.034_ID285_material_0",
+                    "mtl": "SketchUp.034_ID285_SketchUp.034_ID285_material_0.mtl",
+                    "src": "SketchUp.034_ID285_SketchUp.034_ID285_material_0.obj"
+                },
+                {
+                    "id": "SketchUp.034_ID285_SketchUp.034_ID285_Color_H02",
+                    "mtl": "SketchUp.034_ID285_SketchUp.034_ID285_Color_H02.mtl",
+                    "src": "SketchUp.034_ID285_SketchUp.034_ID285_Color_H02.obj"
+                },
+                {
+                    "id": "SketchUp.037_ID303_SketchUp.037_ID303_material",
+                    "mtl": "SketchUp.037_ID303_SketchUp.037_ID303_material.mtl",
+                    "src": "SketchUp.037_ID303_SketchUp.037_ID303_material.obj"
+                },
+                {
+                    "id": "pikasudoll1_pikasudoll1_pikatsuudoll.png",
+                    "mtl": "pikasudoll1_pikasudoll1_pikatsuudoll.png.mtl",
+                    "src": "pikasudoll1_pikasudoll1_pikatsuudoll.png.obj"
+                },
+                {
+                    "id": "instance_17.015_ID921.009",
+                    "mtl": "instance_17.015_ID921.009.mtl",
+                    "src": "instance_17.015_ID921.009.obj"
+                },
+                {
+                    "id": "ID96",
+                    "mtl": "ID96.mtl",
+                    "src": "ID96.obj"
+                },
+                {
+                    "id": "instance_17.022_ID963.004",
+                    "mtl": "instance_17.022_ID963.004.mtl",
+                    "src": "instance_17.022_ID963.004.obj"
+                },
+                {
+                    "id": "SketchUp.035_ID291_SketchUp.035_ID291_material",
+                    "mtl": "SketchUp.035_ID291_SketchUp.035_ID291_material.mtl",
+                    "src": "SketchUp.035_ID291_SketchUp.035_ID291_material.obj"
+                },
+                {
+                    "id": "SketchUp.057_ID434_SketchUp.057_ID434_material",
+                    "mtl": "SketchUp.057_ID434_SketchUp.057_ID434_material.mtl",
+                    "src": "SketchUp.057_ID434_SketchUp.057_ID434_material.obj"
+                },
+                {
+                    "id": "instance_17.015_ID921.016",
+                    "mtl": "instance_17.015_ID921.016.mtl",
+                    "src": "instance_17.015_ID921.016.obj"
+                },
+                {
+                    "id": "instance_13.033_ID636",
+                    "mtl": "instance_13.033_ID636.mtl",
+                    "src": "instance_13.033_ID636.obj"
+                },
+                {
+                    "id": "ID36",
+                    "mtl": "ID36.mtl",
+                    "src": "ID36.obj"
+                },
+                {
+                    "id": "SketchUp.013_ID124_SketchUp.013_ID124_Color_M02",
+                    "mtl": "SketchUp.013_ID124_SketchUp.013_ID124_Color_M02.mtl",
+                    "src": "SketchUp.013_ID124_SketchUp.013_ID124_Color_M02.obj"
+                },
+                {
+                    "id": "SketchUp.059_ID446_SketchUp.059_ID446_material_0.002",
+                    "mtl": "SketchUp.059_ID446_SketchUp.059_ID446_material_0.002.mtl",
+                    "src": "SketchUp.059_ID446_SketchUp.059_ID446_material_0.002.obj"
+                },
+                {
+                    "id": "instance_17.015_ID921.007",
+                    "mtl": "instance_17.015_ID921.007.mtl",
+                    "src": "instance_17.015_ID921.007.obj"
+                },
+                {
+                    "id": "SketchUp.058_ID440_SketchUp.058_ID440_material_0.002",
+                    "mtl": "SketchUp.058_ID440_SketchUp.058_ID440_material_0.002.mtl",
+                    "src": "SketchUp.058_ID440_SketchUp.058_ID440_material_0.002.obj"
+                },
+                {
+                    "id": "SketchUp.035_ID291_SketchUp.035_ID291_material_0.001",
+                    "mtl": "SketchUp.035_ID291_SketchUp.035_ID291_material_0.001.mtl",
+                    "src": "SketchUp.035_ID291_SketchUp.035_ID291_material_0.001.obj"
+                },
+                {
+                    "id": "Icosphere.003",
+                    "mtl": "Icosphere.003.mtl",
+                    "src": "Icosphere.003.obj"
+                },
+                {
+                    "id": "mesh_0_",
+                    "mtl": "mesh_0_.mtl",
+                    "src": "mesh_0_.obj"
+                },
+                {
+                    "id": "SketchUp.032_ID273_SketchUp.032_ID273_material.001",
+                    "mtl": "SketchUp.032_ID273_SketchUp.032_ID273_material.001.mtl",
+                    "src": "SketchUp.032_ID273_SketchUp.032_ID273_material.001.obj"
+                },
+                {
+                    "id": "SketchUp.189_ID696_SketchUp.189_ID696___Charcoal_",
+                    "mtl": "SketchUp.189_ID696_SketchUp.189_ID696___Charcoal_.mtl",
+                    "src": "SketchUp.189_ID696_SketchUp.189_ID696___Charcoal_.obj"
+                },
+                {
+                    "id": "SketchUp.190_ID702_SketchUp.190_ID702___Charcoal_",
+                    "mtl": "SketchUp.190_ID702_SketchUp.190_ID702___Charcoal_.mtl",
+                    "src": "SketchUp.190_ID702_SketchUp.190_ID702___Charcoal_.obj"
+                },
+                {
+                    "id": "SketchUp.057_ID434_SketchUp.057_ID434_material_0",
+                    "mtl": "SketchUp.057_ID434_SketchUp.057_ID434_material_0.mtl",
+                    "src": "SketchUp.057_ID434_SketchUp.057_ID434_material_0.obj"
+                },
+                {
+                    "id": "instance_17.015_ID921.010",
+                    "mtl": "instance_17.015_ID921.010.mtl",
+                    "src": "instance_17.015_ID921.010.obj"
+                }
+            ]
+        },
+        "Room": {
+            "Link": [
+                {
+                    "col": "#99ff99",
+                    "js_id": "0",
+                    "pos": "-13.1 0.1 0",
+                    "scale": "1.9 2.4 1",
+                    "url": "inn.html"
+                },
+                {
+                    "col": "#99ff99",
+                    "js_id": "1",
+                    "pos": "0.7 -0.1 0.1",
+                    "scale": "0.8 2.3 0.8",
+                    "url": "inn.html"
+                }
+            ],
+            "Object": [
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.037_ID303_SketchUp.037_ID303_material",
+                    "id": "SketchUp.037_ID303_SketchUp.037_ID303_material",
+                    "js_id": "2",
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.180_ID629_SketchUp.180_ID629___Ivory_.001",
+                    "id": "SketchUp.180_ID629_SketchUp.180_ID629___Ivory_.001",
+                    "js_id": "3",
+                    "lighting": false,
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp_ID3.001",
+                    "id": "SketchUp_ID3.001",
+                    "js_id": "4",
+                    "lighting": false,
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp_ID3",
+                    "id": "SketchUp_ID3",
+                    "js_id": "5",
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp_ID3.009_SketchUp_ID3.010",
+                    "id": "SketchUp_ID3.009_SketchUp_ID3.010",
+                    "js_id": "6",
+                    "lighting": false,
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp_ID3.008_SketchUp_ID3.009",
+                    "id": "SketchUp_ID3.008_SketchUp_ID3.009",
+                    "js_id": "7",
+                    "lighting": false,
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.205_ID805_SketchUp.205_ID805_material_0",
+                    "id": "SketchUp.205_ID805_SketchUp.205_ID805_material_0",
+                    "js_id": "8",
+                    "lighting": false,
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_0_ID23.001_instance_0_ID23.003",
+                    "id": "instance_0_ID23.001_instance_0_ID23.003",
+                    "js_id": "9",
+                    "lighting": false,
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_0.003_ID47.002",
+                    "id": "instance_0.003_ID47.002",
+                    "js_id": "10",
+                    "lighting": false,
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Cube",
+                    "id": "Cube",
+                    "js_id": "11",
+                    "lighting": false,
+                    "pos": "18.176224 0.695015 5.959122"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Cube.002",
+                    "id": "Cube.002",
+                    "js_id": "12",
+                    "lighting": false,
+                    "pos": "-19 1 2"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.013_ID124_SketchUp.013_ID124_Color_M02",
+                    "id": "SketchUp.013_ID124_SketchUp.013_ID124_Color_M02",
+                    "js_id": "13",
+                    "lighting": false,
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.023_ID207_SketchUp.023_ID207___Charcoal_",
+                    "id": "SketchUp.023_ID207_SketchUp.023_ID207___Charcoal_",
+                    "js_id": "14",
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Cube.001",
+                    "id": "Cube.001",
+                    "js_id": "15",
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp_ID3.007_SketchUp_ID3.008",
+                    "id": "SketchUp_ID3.007_SketchUp_ID3.008",
+                    "js_id": "16",
+                    "lighting": false,
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Plane.002_Plane.003",
+                    "id": "Plane.002_Plane.003",
+                    "js_id": "17",
+                    "lighting": false,
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp_ID3.005_SketchUp_ID3.007",
+                    "id": "SketchUp_ID3.005_SketchUp_ID3.007",
+                    "js_id": "18",
+                    "lighting": false,
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.001_ID13.001",
+                    "id": "SketchUp.001_ID13.001",
+                    "js_id": "19",
+                    "lighting": false,
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Plane.004",
+                    "id": "Plane.004",
+                    "js_id": "20",
+                    "lighting": false,
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp_ID3.003",
+                    "id": "SketchUp_ID3.003",
+                    "js_id": "21",
+                    "lighting": false,
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Icosphere",
+                    "id": "Icosphere",
+                    "js_id": "22",
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Icosphere.001",
+                    "id": "Icosphere.001",
+                    "js_id": "23",
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Icosphere.002",
+                    "id": "Icosphere.002",
+                    "js_id": "24",
+                    "pos": "-6.002805 3.4 -1.969471"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Icosphere.003",
+                    "id": "Icosphere.003",
+                    "js_id": "25",
+                    "pos": "-1.179629 3.4 -1.969471"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Icosphere.004",
+                    "id": "Icosphere.004",
+                    "js_id": "26",
+                    "pos": "-6.074944 3.4 -6.268948"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID73.000",
+                    "id": "ID73.000",
+                    "js_id": "27",
+                    "pos": "0.1 0 0.1"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID73.002",
+                    "id": "ID73.002",
+                    "js_id": "28",
+                    "pos": "-18 0 12.000001"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID73.003",
+                    "id": "ID73.003",
+                    "js_id": "29",
+                    "pos": "-27 0 1",
+                    "xdir": "-0.000003 0 1",
+                    "zdir": "-1 0 -0.000003"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID73.004",
+                    "id": "ID73.004",
+                    "js_id": "30",
+                    "pos": "8.976311 0 0.05437"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID73.005",
+                    "id": "ID73.005",
+                    "js_id": "31",
+                    "pos": "17.9 0 12"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID73.006",
+                    "id": "ID73.006",
+                    "js_id": "32",
+                    "pos": "8.9 0 12"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID73.007",
+                    "id": "ID73.007",
+                    "js_id": "33",
+                    "pos": "-9.1 -0.1 12"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID73.008",
+                    "id": "ID73.008",
+                    "js_id": "34",
+                    "pos": "-0.1 0 12"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID73.001",
+                    "id": "ID73.001",
+                    "js_id": "35",
+                    "pos": "-18.1 0 0.1"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_0_ID27",
+                    "id": "instance_0_ID27",
+                    "js_id": "36"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_13.033_ID636",
+                    "id": "instance_13.033_ID636",
+                    "js_id": "37",
+                    "lighting": false,
+                    "pos": "0.046538 -0.000258 -0.003262"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_13.033_ID636.001",
+                    "id": "instance_13.033_ID636.001",
+                    "js_id": "38",
+                    "lighting": false,
+                    "pos": "-2.453462 -0.000258 0.068563"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.015_ID921",
+                    "id": "instance_17.015_ID921",
+                    "js_id": "39",
+                    "lighting": false,
+                    "pos": "0.013073 0.006027 0.186058"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.015_ID921.001",
+                    "id": "instance_17.015_ID921.001",
+                    "js_id": "40",
+                    "lighting": false,
+                    "pos": "-1.790603 0.006027 0.186058"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.015_ID921.002",
+                    "id": "instance_17.015_ID921.002",
+                    "js_id": "41",
+                    "lighting": false,
+                    "pos": "-2.550118 0.006027 0.186058"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.015_ID921.003",
+                    "id": "instance_17.015_ID921.003",
+                    "js_id": "42",
+                    "lighting": false,
+                    "pos": "-5 -0.1 0.2"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.015_ID921.004",
+                    "id": "instance_17.015_ID921.004",
+                    "js_id": "43",
+                    "lighting": false,
+                    "pos": "-4.265938 0.006027 0.186058"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.015_ID921.005",
+                    "id": "instance_17.015_ID921.005",
+                    "js_id": "44",
+                    "lighting": false,
+                    "pos": "-3.554115 0.006027 -13.181735"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.015_ID921.006",
+                    "id": "instance_17.015_ID921.006",
+                    "js_id": "45",
+                    "lighting": false,
+                    "pos": "-2.7946 0.006027 -13.181735"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.015_ID921.007",
+                    "id": "instance_17.015_ID921.007",
+                    "js_id": "46",
+                    "lighting": false,
+                    "pos": "-5.269936 0.006027 -13.181735"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.015_ID921.008",
+                    "id": "instance_17.015_ID921.008",
+                    "js_id": "47",
+                    "lighting": false,
+                    "pos": "-6.02945 0.006027 -13.181735"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.015_ID921.009",
+                    "id": "instance_17.015_ID921.009",
+                    "js_id": "48",
+                    "lighting": false,
+                    "pos": "-1.048745 0.006027 -13.181735"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.015_ID921.010",
+                    "id": "instance_17.015_ID921.010",
+                    "js_id": "49",
+                    "lighting": false,
+                    "pos": "-8.056805 0.006027 -13.181735"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.015_ID921.011",
+                    "id": "instance_17.015_ID921.011",
+                    "js_id": "50",
+                    "lighting": false,
+                    "pos": "-6.994987 0.006027 0.186058"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.015_ID921.012",
+                    "id": "instance_17.015_ID921.012",
+                    "js_id": "51",
+                    "lighting": false,
+                    "pos": "0.583226 0.006027 -4.15048"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.015_ID921.013",
+                    "id": "instance_17.015_ID921.013",
+                    "js_id": "52",
+                    "lighting": false,
+                    "pos": "-12.784569 0.006027 -3.088664"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.015_ID921.014",
+                    "id": "instance_17.015_ID921.014",
+                    "js_id": "53",
+                    "lighting": false,
+                    "pos": "-13.035679 0.006027 0.96341"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.015_ID921.015",
+                    "id": "instance_17.015_ID921.015",
+                    "js_id": "54",
+                    "lighting": false,
+                    "pos": "0.332116 0.006027 -0.098407"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.015_ID921.016",
+                    "id": "instance_17.015_ID921.016",
+                    "js_id": "55",
+                    "lighting": false,
+                    "pos": "4.9 0 -1.5",
+                    "scale": "1 1.1 1",
+                    "xdir": "0.965926 0 -0.258819",
+                    "zdir": "0.258819 0 0.965926"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.015_ID921.017",
+                    "id": "instance_17.015_ID921.017",
+                    "js_id": "56",
+                    "lighting": false,
+                    "pos": "-8.192161 0.006027 0.96341"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.022_ID963",
+                    "id": "instance_17.022_ID963",
+                    "js_id": "57",
+                    "lighting": false,
+                    "pos": "-0.00026 0.007118 0.218155"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.022_ID963.001",
+                    "id": "instance_17.022_ID963.001",
+                    "js_id": "58",
+                    "lighting": false,
+                    "pos": "-5.489899 0.007118 3.083595"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.022_ID963.002",
+                    "id": "instance_17.022_ID963.002",
+                    "js_id": "59",
+                    "lighting": false,
+                    "pos": "-6.957708 0.007118 0.218155"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.022_ID963.003",
+                    "id": "instance_17.022_ID963.003",
+                    "js_id": "60",
+                    "lighting": false,
+                    "pos": "-5.741009 0.007118 7.135668"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_17.022_ID963.004",
+                    "id": "instance_17.022_ID963.004",
+                    "js_id": "61",
+                    "lighting": false,
+                    "pos": "-0.897491 0.007118 7.135668"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_18.001_ID1041",
+                    "id": "instance_18.001_ID1041",
+                    "js_id": "62"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_19_ID1627",
+                    "id": "instance_19_ID1627",
+                    "js_id": "63"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_20.002_ID1665",
+                    "id": "instance_20.002_ID1665",
+                    "js_id": "64"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_21.001_ID1736",
+                    "id": "instance_21.001_ID1736",
+                    "js_id": "65",
+                    "lighting": false
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID680",
+                    "id": "ID680",
+                    "js_id": "66",
+                    "pos": "0 226.947495 -428.346497"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_5.001_ID37",
+                    "id": "instance_5.001_ID37",
+                    "js_id": "67"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_8.010_ID296",
+                    "id": "instance_8.010_ID296",
+                    "js_id": "68"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.189_ID696_SketchUp.189_ID696___Charcoal_",
+                    "id": "SketchUp.189_ID696_SketchUp.189_ID696___Charcoal_",
+                    "js_id": "69",
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "pikasudoll1_pikasudoll1_pikatsuudoll.png",
+                    "id": "pikasudoll1_pikasudoll1_pikatsuudoll.png",
+                    "js_id": "70",
+                    "lighting": false,
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Plane",
+                    "id": "Plane",
+                    "js_id": "71",
+                    "lighting": false,
+                    "pos": "-4 2.980672 -4"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID3",
+                    "id": "ID3",
+                    "js_id": "72",
+                    "lighting": false,
+                    "pos": "-9 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID33.001",
+                    "id": "ID33.001",
+                    "js_id": "73",
+                    "pos": "6 0 12"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID21",
+                    "id": "ID21",
+                    "js_id": "74",
+                    "lighting": false,
+                    "pos": "-9 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID36",
+                    "id": "ID36",
+                    "js_id": "75",
+                    "lighting": false,
+                    "pos": "-9 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID44",
+                    "id": "ID44",
+                    "js_id": "76",
+                    "lighting": false,
+                    "pos": "-9 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID52",
+                    "id": "ID52",
+                    "js_id": "77",
+                    "lighting": false,
+                    "pos": "-9 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID60",
+                    "id": "ID60",
+                    "js_id": "78",
+                    "pos": "-9 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID70",
+                    "id": "ID70",
+                    "js_id": "79",
+                    "lighting": false,
+                    "pos": "-9 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID33.002",
+                    "id": "ID33.002",
+                    "js_id": "80",
+                    "pos": "-18 0 12"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID84",
+                    "id": "ID84",
+                    "js_id": "81",
+                    "pos": "-9 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.009_ID1895",
+                    "id": "SketchUp.009_ID1895",
+                    "js_id": "82",
+                    "lighting": false
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID90",
+                    "id": "ID90",
+                    "js_id": "83",
+                    "lighting": false,
+                    "pos": "-9 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.010_ID1901",
+                    "id": "SketchUp.010_ID1901",
+                    "js_id": "84",
+                    "lighting": false
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID96",
+                    "id": "ID96",
+                    "js_id": "85",
+                    "pos": "-9 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.011_ID112_SketchUp.011_ID112_Steve_Edges",
+                    "id": "SketchUp.011_ID112_SketchUp.011_ID112_Steve_Edges",
+                    "js_id": "86",
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.011_ID1909",
+                    "id": "SketchUp.011_ID1909",
+                    "js_id": "87"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID102",
+                    "id": "ID102",
+                    "js_id": "88",
+                    "pos": "-9 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.012_ID1922",
+                    "id": "SketchUp.012_ID1922",
+                    "js_id": "89",
+                    "lighting": false
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID33",
+                    "id": "ID33",
+                    "js_id": "90",
+                    "pos": "-6 0 12"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID114",
+                    "id": "ID114",
+                    "js_id": "91",
+                    "pos": "-9 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.015_ID1983",
+                    "id": "SketchUp.015_ID1983",
+                    "js_id": "92",
+                    "lighting": false
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID71",
+                    "id": "ID71",
+                    "js_id": "93",
+                    "pos": "-34.631577 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID75",
+                    "id": "ID75",
+                    "js_id": "94",
+                    "pos": "-34.631577 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID79",
+                    "id": "ID79",
+                    "js_id": "95",
+                    "pos": "-34.631577 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID83",
+                    "id": "ID83",
+                    "js_id": "96",
+                    "pos": "-34.631577 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID39",
+                    "id": "ID39",
+                    "js_id": "97"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.032_ID273_SketchUp.032_ID273_material",
+                    "id": "SketchUp.032_ID273_SketchUp.032_ID273_material",
+                    "js_id": "98",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.032_ID273_SketchUp.032_ID273_material.001",
+                    "id": "SketchUp.032_ID273_SketchUp.032_ID273_material.001",
+                    "js_id": "99",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.032_ID273_SketchUp.032_ID273_material.002",
+                    "id": "SketchUp.032_ID273_SketchUp.032_ID273_material.002",
+                    "js_id": "100",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.032_ID273_SketchUp.032_ID273_material_0",
+                    "id": "SketchUp.032_ID273_SketchUp.032_ID273_material_0",
+                    "js_id": "101",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.032_ID273_SketchUp.032_ID273_material_0.001",
+                    "id": "SketchUp.032_ID273_SketchUp.032_ID273_material_0.001",
+                    "js_id": "102",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.032_ID273_SketchUp.032_ID273_material_0.002",
+                    "id": "SketchUp.032_ID273_SketchUp.032_ID273_material_0.002",
+                    "js_id": "103",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.033_ID279_SketchUp.033_ID279_material",
+                    "id": "SketchUp.033_ID279_SketchUp.033_ID279_material",
+                    "js_id": "104",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.033_ID279_SketchUp.033_ID279_material.001",
+                    "id": "SketchUp.033_ID279_SketchUp.033_ID279_material.001",
+                    "js_id": "105",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.033_ID279_SketchUp.033_ID279_material.002",
+                    "id": "SketchUp.033_ID279_SketchUp.033_ID279_material.002",
+                    "js_id": "106",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.033_ID279_SketchUp.033_ID279_material_0",
+                    "id": "SketchUp.033_ID279_SketchUp.033_ID279_material_0",
+                    "js_id": "107",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.033_ID279_SketchUp.033_ID279_material_0.001",
+                    "id": "SketchUp.033_ID279_SketchUp.033_ID279_material_0.001",
+                    "js_id": "108",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.033_ID279_SketchUp.033_ID279_material_0.002",
+                    "id": "SketchUp.033_ID279_SketchUp.033_ID279_material_0.002",
+                    "js_id": "109",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.034_ID285_SketchUp.034_ID285_Color_H02",
+                    "id": "SketchUp.034_ID285_SketchUp.034_ID285_Color_H02",
+                    "js_id": "110",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.034_ID285_SketchUp.034_ID285_Color_H02.001",
+                    "id": "SketchUp.034_ID285_SketchUp.034_ID285_Color_H02.001",
+                    "js_id": "111",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.034_ID285_SketchUp.034_ID285_Color_H02.002",
+                    "id": "SketchUp.034_ID285_SketchUp.034_ID285_Color_H02.002",
+                    "js_id": "112",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.034_ID285_SketchUp.034_ID285_material_0",
+                    "id": "SketchUp.034_ID285_SketchUp.034_ID285_material_0",
+                    "js_id": "113",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.034_ID285_SketchUp.034_ID285_material_0.001",
+                    "id": "SketchUp.034_ID285_SketchUp.034_ID285_material_0.001",
+                    "js_id": "114",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.034_ID285_SketchUp.034_ID285_material_0.002",
+                    "id": "SketchUp.034_ID285_SketchUp.034_ID285_material_0.002",
+                    "js_id": "115",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.035_ID291_SketchUp.035_ID291_material",
+                    "id": "SketchUp.035_ID291_SketchUp.035_ID291_material",
+                    "js_id": "116",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.035_ID291_SketchUp.035_ID291_material.001",
+                    "id": "SketchUp.035_ID291_SketchUp.035_ID291_material.001",
+                    "js_id": "117",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.035_ID291_SketchUp.035_ID291_material.002",
+                    "id": "SketchUp.035_ID291_SketchUp.035_ID291_material.002",
+                    "js_id": "118",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.035_ID291_SketchUp.035_ID291_material_0",
+                    "id": "SketchUp.035_ID291_SketchUp.035_ID291_material_0",
+                    "js_id": "119",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.035_ID291_SketchUp.035_ID291_material_0.001",
+                    "id": "SketchUp.035_ID291_SketchUp.035_ID291_material_0.001",
+                    "js_id": "120",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.035_ID291_SketchUp.035_ID291_material_0.002",
+                    "id": "SketchUp.035_ID291_SketchUp.035_ID291_material_0.002",
+                    "js_id": "121",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID258",
+                    "id": "ID258",
+                    "js_id": "122",
+                    "pos": "0 0 -12"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.057_ID434_SketchUp.057_ID434_material",
+                    "id": "SketchUp.057_ID434_SketchUp.057_ID434_material",
+                    "js_id": "123",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.057_ID434_SketchUp.057_ID434_material.001",
+                    "id": "SketchUp.057_ID434_SketchUp.057_ID434_material.001",
+                    "js_id": "124",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.057_ID434_SketchUp.057_ID434_material.002",
+                    "id": "SketchUp.057_ID434_SketchUp.057_ID434_material.002",
+                    "js_id": "125",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.057_ID434_SketchUp.057_ID434_material_0",
+                    "id": "SketchUp.057_ID434_SketchUp.057_ID434_material_0",
+                    "js_id": "126",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.057_ID434_SketchUp.057_ID434_material_0.001",
+                    "id": "SketchUp.057_ID434_SketchUp.057_ID434_material_0.001",
+                    "js_id": "127",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.057_ID434_SketchUp.057_ID434_material_0.002",
+                    "id": "SketchUp.057_ID434_SketchUp.057_ID434_material_0.002",
+                    "js_id": "128",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.058_ID440_SketchUp.058_ID440_material",
+                    "id": "SketchUp.058_ID440_SketchUp.058_ID440_material",
+                    "js_id": "129",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.058_ID440_SketchUp.058_ID440_material.001",
+                    "id": "SketchUp.058_ID440_SketchUp.058_ID440_material.001",
+                    "js_id": "130",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.058_ID440_SketchUp.058_ID440_material.002",
+                    "id": "SketchUp.058_ID440_SketchUp.058_ID440_material.002",
+                    "js_id": "131",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.058_ID440_SketchUp.058_ID440_material_0",
+                    "id": "SketchUp.058_ID440_SketchUp.058_ID440_material_0",
+                    "js_id": "132",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.058_ID440_SketchUp.058_ID440_material_0.001",
+                    "id": "SketchUp.058_ID440_SketchUp.058_ID440_material_0.001",
+                    "js_id": "133",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.058_ID440_SketchUp.058_ID440_material_0.002",
+                    "id": "SketchUp.058_ID440_SketchUp.058_ID440_material_0.002",
+                    "js_id": "134",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.059_ID446_SketchUp.059_ID446__0098_DodgerBlue",
+                    "id": "SketchUp.059_ID446_SketchUp.059_ID446__0098_DodgerBlue",
+                    "js_id": "135",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.059_ID446_SketchUp.059_ID446__0098_DodgerBlue.002",
+                    "id": "SketchUp.059_ID446_SketchUp.059_ID446__0098_DodgerBlue.002",
+                    "js_id": "136",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.059_ID446_SketchUp.059_ID446_material_0.001",
+                    "id": "SketchUp.059_ID446_SketchUp.059_ID446_material_0.001",
+                    "js_id": "137",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.059_ID446_SketchUp.059_ID446_material_0.002",
+                    "id": "SketchUp.059_ID446_SketchUp.059_ID446_material_0.002",
+                    "js_id": "138",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.175_ID595_SketchUp.175_ID595___Gainsboro_",
+                    "id": "SketchUp.175_ID595_SketchUp.175_ID595___Gainsboro_",
+                    "js_id": "139",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.190_ID702_SketchUp.190_ID702___Charcoal_",
+                    "id": "SketchUp.190_ID702_SketchUp.190_ID702___Charcoal_",
+                    "js_id": "140",
+                    "pos": "8 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.192_ID721_SketchUp.192_ID721_material.001",
+                    "id": "SketchUp.192_ID721_SketchUp.192_ID721_material.001",
+                    "js_id": "141",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.192_ID721_SketchUp.192_ID721_material.002",
+                    "id": "SketchUp.192_ID721_SketchUp.192_ID721_material.002",
+                    "js_id": "142",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.192_ID721_SketchUp.192_ID721_material_0.002",
+                    "id": "SketchUp.192_ID721_SketchUp.192_ID721_material_0.002",
+                    "js_id": "143",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.199_ID767_SketchUp.199_ID767_material_0.001",
+                    "id": "SketchUp.199_ID767_SketchUp.199_ID767_material_0.001",
+                    "js_id": "144",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.199_ID767_SketchUp.199_ID767_material_0.002",
+                    "id": "SketchUp.199_ID767_SketchUp.199_ID767_material_0.002",
+                    "js_id": "145",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.205_ID805_SketchUp.205_ID805___Gainsboro_",
+                    "id": "SketchUp.205_ID805_SketchUp.205_ID805___Gainsboro_",
+                    "js_id": "146",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID742",
+                    "id": "ID742",
+                    "js_id": "147",
+                    "lighting": false,
+                    "pos": "-9 0 10.877061"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.222_ID909_SketchUp.222_ID909_Color_H02",
+                    "id": "SketchUp.222_ID909_SketchUp.222_ID909_Color_H02",
+                    "js_id": "148",
+                    "pos": "4 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID877",
+                    "id": "ID877",
+                    "js_id": "149"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID881",
+                    "id": "ID881",
+                    "js_id": "150",
+                    "pos": "0 0 -12"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID885",
+                    "id": "ID885",
+                    "js_id": "151",
+                    "pos": "0 0 -12"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID409",
+                    "id": "ID409",
+                    "js_id": "152",
+                    "pos": "-9 0 0"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID591",
+                    "id": "ID591",
+                    "js_id": "153"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID595",
+                    "id": "ID595",
+                    "js_id": "154"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp_ID1823",
+                    "id": "SketchUp_ID1823",
+                    "js_id": "155",
+                    "lighting": false
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp.174_ID589_SketchUp.174_ID589_material_0",
+                    "id": "SketchUp.174_ID589_SketchUp.174_ID589_material_0",
+                    "js_id": "156",
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "atyamodol1_atyamodol1_atyamodoll.png",
+                    "id": "atyamodol1_atyamodol1_atyamodoll.png",
+                    "js_id": "157",
+                    "lighting": false,
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_0_ID23",
+                    "id": "instance_0_ID23",
+                    "js_id": "158",
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "instance_0_ID5",
+                    "id": "instance_0_ID5",
+                    "js_id": "159",
+                    "lighting": false,
+                    "pos": "-1 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "whole_model_group1",
+                    "id": "whole_model_group1",
+                    "js_id": "160",
+                    "pos": "-0.983084 3.4 -6"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "mesh_0_",
+                    "id": "mesh_0_",
+                    "js_id": "161",
+                    "pos": "-3.19219 4.067824 -6.248745"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp_ID3.002",
+                    "id": "SketchUp_ID3.002",
+                    "js_id": "162",
+                    "lighting": false,
+                    "pos": "-1 3.4 -6",
+                    "ydir": "0 1 -0.000001",
+                    "zdir": "0 0.000001 1"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "ID881",
+                    "id": "ID881",
+                    "js_id": "ben-0-1477443365",
+                    "pos": "4.672383 1.029764 3.051325",
+                    "xdir": "-0.421302 0 0.90692",
+                    "ydir": "-0.890258 -0.190808 -0.413562",
+                    "zdir": "0.173047 -0.981627 0.080388"
+                }
+            ],
+            "fog_col": "#cccccc",
+            "fog_density": 0.20000000298023224,
+            "fog_end": 100,
+            "fog_start": 1,
+            "near_dist": 0.0024999999441206455,
+            "pos": "5.1 0 0",
+            "teleport_min_dist": 5,
+            "use_local_asset": "room_plane",
+            "visible": false,
+            "xdir": "1 0 0",
+            "ydir": "0 1 0",
+            "zdir": "0 0 1"
+        }
+    }
+}
