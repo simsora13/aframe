@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.76.0 commit date:2015-11-03, commit time:10:56, hash:f337fea</authoring_tool>
+    </contributor>
+    <created>2016-10-25T21:07:21</created>
+    <modified>2016-10-25T21:07:21</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_images/>
+  <library_effects>
+    <effect id="dvd1-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.690196 0.690196 0.690196 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">48</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_materials>
+    <material id="dvd1-material" name="dvd1">
+      <instance_effect url="#dvd1-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_-mesh" name="SketchUp.175_ID595_SketchUp.175_ID595___Gainsboro_">
+      <mesh>
+        <source id="SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_-mesh-positions">
+          <float_array id="SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_-mesh-positions-array" count="54">-1.54637 -1.779021 0.8552697 -1.538289 -1.776142 0.8552697 -1.542329 -1.77758 0.8527937 -1.54637 -1.779021 0.8602227 -1.538289 -1.776142 0.8602227 -1.542329 -1.77758 0.8626987 -1.545956 -1.780185 0.8552697 -1.54637 -1.779021 0.8602227 -1.54637 -1.779021 0.8552697 -1.545956 -1.780185 0.8602227 -1.542329 -1.77758 0.8527937 -1.541915 -1.778749 0.8527937 -1.542329 -1.77758 0.8626987 -1.541915 -1.778749 0.8626987 -1.538289 -1.776142 0.8602227 -1.537873 -1.777308 0.8602227 -1.538289 -1.776142 0.8552697 -1.537873 -1.777308 0.8552697</float_array>
+          <technique_common>
+            <accessor source="#SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_-mesh-positions-array" count="18" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_-mesh-normals">
+          <float_array id="SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_-mesh-normals-array" count="54">-0.3356132 0.942 1.31505e-4 -0.3356014 0.9420041 1.31543e-4 -0.3356058 0.9420025 5.26148e-4 -0.3356066 0.9420022 -1.31506e-4 -0.3355948 0.9420065 -1.31544e-4 -0.3356029 0.9420034 -5.26161e-4 -0.8162515 -0.2895468 -0.4998961 -0.8158171 -0.2902469 0.5001993 -0.8158782 -0.2901124 -0.5001776 -0.8158749 -0.2902292 0.5001152 6.30415e-4 1.23024e-4 -0.9999999 -5.38652e-4 -1.16471e-4 -1 6.23312e-4 1.55362e-4 0.9999999 -5.59264e-4 -9.09755e-5 0.9999999 0.8155972 0.2908172 0.5002267 0.8156141 0.2909293 0.500134 0.8156223 0.2908007 -0.5001953 0.8156424 0.2909172 -0.5000948</float_array>
+          <technique_common>
+            <accessor source="#SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_-mesh-normals-array" count="18" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_-mesh-map-0">
+          <float_array id="SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_-mesh-map-0-array" count="96">0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1</float_array>
+          <technique_common>
+            <accessor source="#SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_-mesh-map-0-array" count="48" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_-mesh-vertices">
+          <input semantic="POSITION" source="#SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_-mesh-positions"/>
+        </vertices>
+        <polylist material="dvd1-material" count="16">
+          <input semantic="VERTEX" source="#SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_-mesh-map-0" offset="2" set="0"/>
+          <vcount>3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </vcount>
+          <p>0 0 0 1 1 1 2 2 2 1 1 3 0 0 4 3 3 5 1 1 6 3 3 7 4 4 8 4 4 9 3 3 10 5 5 11 6 6 12 7 7 13 8 8 14 7 7 15 6 6 16 9 9 17 6 6 18 10 10 19 11 11 20 10 10 21 6 6 22 8 8 23 12 12 24 9 9 25 13 13 26 9 9 27 12 12 28 7 7 29 14 14 30 13 13 31 15 15 32 13 13 33 14 14 34 12 12 35 15 15 36 16 16 37 14 14 38 16 16 39 15 15 40 17 17 41 11 11 42 16 16 43 17 17 44 16 16 45 11 11 46 10 10 47</p>
+        </polylist>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers/>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_" name="SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_geometry url="#SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_-mesh" name="SketchUp_175_ID595_SketchUp_175_ID595___Gainsboro_">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="dvd1-material" target="#dvd1-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>

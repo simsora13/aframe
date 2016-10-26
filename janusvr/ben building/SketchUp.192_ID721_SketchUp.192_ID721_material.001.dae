@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.76.0 commit date:2015-11-03, commit time:10:56, hash:f337fea</authoring_tool>
+    </contributor>
+    <created>2016-10-25T21:07:21</created>
+    <modified>2016-10-25T21:07:21</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_images/>
+  <library_effects>
+    <effect id="material_002-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.6206576 0.6023536 0.60842 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">48</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_materials>
+    <material id="material_002-material" name="material_002">
+      <instance_effect url="#material_002-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="SketchUp_192_ID721_SketchUp_192_ID721_material_001-mesh" name="SketchUp.192_ID721_SketchUp.192_ID721_material.001">
+      <mesh>
+        <source id="SketchUp_192_ID721_SketchUp_192_ID721_material_001-mesh-positions">
+          <float_array id="SketchUp_192_ID721_SketchUp_192_ID721_material_001-mesh-positions-array" count="48">-1.600901 -1.814733 1.000953 -1.6046 -1.81605 1.000953 -1.602751 -1.815392 0.9989897 -1.602751 -1.815392 1.002916 -1.604843 -1.815368 1.000953 -1.601145 -1.81405 1.000953 -1.602994 -1.814708 0.9989897 -1.602994 -1.814708 1.002916 -1.6046 -1.81605 1.000953 -1.602994 -1.814708 0.9989897 -1.602751 -1.815392 0.9989897 -1.604843 -1.815368 1.000953 -1.601145 -1.81405 1.000953 -1.600901 -1.814733 1.000953 -1.602751 -1.815392 1.002916 -1.602994 -1.814708 1.002916</float_array>
+          <technique_common>
+            <accessor source="#SketchUp_192_ID721_SketchUp_192_ID721_material_001-mesh-positions-array" count="16" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="SketchUp_192_ID721_SketchUp_192_ID721_material_001-mesh-normals">
+          <float_array id="SketchUp_192_ID721_SketchUp_192_ID721_material_001-mesh-normals-array" count="48">0.3350239 -0.9422097 -2.36412e-4 0.3351418 -0.9421678 -1.65496e-4 0.3353967 -0.942077 1.20826e-4 0.335044 -0.9422025 -3.57182e-4 -0.3360966 0.9418275 5.58931e-4 -0.3360466 0.9418452 4.79093e-4 -0.3357334 0.9419569 5.4382e-4 -0.3357602 0.9419474 -5.43815e-4 -0.9412943 -0.3375862 -8.7766e-4 -0.001749694 8.00454e-4 -0.9999982 -3.57929e-4 1.78067e-4 -1 -0.9414038 -0.3372804 -8.58872e-4 0.9417729 0.3362497 1.80787e-5 0.9416837 0.3364995 2.15878e-5 -3.60484e-4 1.74781e-4 1 -1.69035e-4 1.6913e-4 1</float_array>
+          <technique_common>
+            <accessor source="#SketchUp_192_ID721_SketchUp_192_ID721_material_001-mesh-normals-array" count="16" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="SketchUp_192_ID721_SketchUp_192_ID721_material_001-mesh-map-0">
+          <float_array id="SketchUp_192_ID721_SketchUp_192_ID721_material_001-mesh-map-0-array" count="72">0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1</float_array>
+          <technique_common>
+            <accessor source="#SketchUp_192_ID721_SketchUp_192_ID721_material_001-mesh-map-0-array" count="36" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="SketchUp_192_ID721_SketchUp_192_ID721_material_001-mesh-vertices">
+          <input semantic="POSITION" source="#SketchUp_192_ID721_SketchUp_192_ID721_material_001-mesh-positions"/>
+        </vertices>
+        <polylist material="material_002-material" count="12">
+          <input semantic="VERTEX" source="#SketchUp_192_ID721_SketchUp_192_ID721_material_001-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#SketchUp_192_ID721_SketchUp_192_ID721_material_001-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#SketchUp_192_ID721_SketchUp_192_ID721_material_001-mesh-map-0" offset="2" set="0"/>
+          <vcount>3 3 3 3 3 3 3 3 3 3 3 3 </vcount>
+          <p>0 0 0 1 1 1 2 2 2 1 1 3 0 0 4 3 3 5 4 4 6 5 5 7 6 6 8 5 5 9 4 4 10 7 7 11 8 8 12 9 9 13 10 10 14 9 9 15 8 8 16 11 11 17 10 10 18 12 12 19 13 13 20 12 12 21 10 10 22 9 9 23 12 12 24 14 14 25 13 13 26 14 14 27 12 12 28 15 15 29 15 15 30 8 8 31 14 14 32 8 8 33 15 15 34 11 11 35</p>
+        </polylist>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers/>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="SketchUp_192_ID721_SketchUp_192_ID721_material_001" name="SketchUp_192_ID721_SketchUp_192_ID721_material_001" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_geometry url="#SketchUp_192_ID721_SketchUp_192_ID721_material_001-mesh" name="SketchUp_192_ID721_SketchUp_192_ID721_material_001">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="material_002-material" target="#material_002-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>

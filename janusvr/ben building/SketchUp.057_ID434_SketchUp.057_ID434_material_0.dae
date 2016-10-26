@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.76.0 commit date:2015-11-03, commit time:10:56, hash:f337fea</authoring_tool>
+    </contributor>
+    <created>2016-10-25T21:07:21</created>
+    <modified>2016-10-25T21:07:21</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_images/>
+  <library_effects>
+    <effect id="dvd2_NONE-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.5145096 0.5584312 0.5866664 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">48</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_materials>
+    <material id="dvd2_NONE-material" name="dvd2_NONE">
+      <instance_effect url="#dvd2_NONE-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="SketchUp_057_ID434_SketchUp_057_ID434_material_0-mesh" name="SketchUp.057_ID434_SketchUp.057_ID434_material_0">
+      <mesh>
+        <source id="SketchUp_057_ID434_SketchUp_057_ID434_material_0-mesh-positions">
+          <float_array id="SketchUp_057_ID434_SketchUp_057_ID434_material_0-mesh-positions-array" count="9">-0.677095 -1.796201 0.7028007 -0.678681 -1.794982 0.7008007 -0.678827 -1.795201 0.7008007</float_array>
+          <technique_common>
+            <accessor source="#SketchUp_057_ID434_SketchUp_057_ID434_material_0-mesh-positions-array" count="3" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="SketchUp_057_ID434_SketchUp_057_ID434_material_0-mesh-normals">
+          <float_array id="SketchUp_057_ID434_SketchUp_057_ID434_material_0-mesh-normals-array" count="9">-0.5861289 0.393912 0.7080158 -0.5861285 0.393912 0.7080162 -0.5861282 0.3939121 0.7080163</float_array>
+          <technique_common>
+            <accessor source="#SketchUp_057_ID434_SketchUp_057_ID434_material_0-mesh-normals-array" count="3" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="SketchUp_057_ID434_SketchUp_057_ID434_material_0-mesh-map-0">
+          <float_array id="SketchUp_057_ID434_SketchUp_057_ID434_material_0-mesh-map-0-array" count="6">0 0 1 0 1 1</float_array>
+          <technique_common>
+            <accessor source="#SketchUp_057_ID434_SketchUp_057_ID434_material_0-mesh-map-0-array" count="3" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="SketchUp_057_ID434_SketchUp_057_ID434_material_0-mesh-vertices">
+          <input semantic="POSITION" source="#SketchUp_057_ID434_SketchUp_057_ID434_material_0-mesh-positions"/>
+        </vertices>
+        <polylist material="dvd2_NONE-material" count="1">
+          <input semantic="VERTEX" source="#SketchUp_057_ID434_SketchUp_057_ID434_material_0-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#SketchUp_057_ID434_SketchUp_057_ID434_material_0-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#SketchUp_057_ID434_SketchUp_057_ID434_material_0-mesh-map-0" offset="2" set="0"/>
+          <vcount>3 </vcount>
+          <p>0 0 0 1 1 1 2 2 2</p>
+        </polylist>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers/>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="SketchUp_057_ID434_SketchUp_057_ID434_material_0" name="SketchUp_057_ID434_SketchUp_057_ID434_material_0" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_geometry url="#SketchUp_057_ID434_SketchUp_057_ID434_material_0-mesh" name="SketchUp_057_ID434_SketchUp_057_ID434_material_0">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="dvd2_NONE-material" target="#dvd2_NONE-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>

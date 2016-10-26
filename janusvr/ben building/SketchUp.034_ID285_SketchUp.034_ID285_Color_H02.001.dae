@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.76.0 commit date:2015-11-03, commit time:10:56, hash:f337fea</authoring_tool>
+    </contributor>
+    <created>2016-10-25T21:07:21</created>
+    <modified>2016-10-25T21:07:21</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_images/>
+  <library_effects>
+    <effect id="Color_H02_001-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.1568624 0.8 0.8 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">48</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+      </profile_COMMON>
+    </effect>
+  </library_effects>
+  <library_materials>
+    <material id="Color_H02_001-material" name="Color_H02_001">
+      <instance_effect url="#Color_H02_001-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001-mesh" name="SketchUp.034_ID285_SketchUp.034_ID285_Color_H02.001">
+      <mesh>
+        <source id="SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001-mesh-positions">
+          <float_array id="SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001-mesh-positions-array" count="45">-0.633612 -1.924999 0.6907097 -0.632708 -1.9252 0.6907097 -0.632708 -1.924999 0.6907097 -0.633612 -1.9252 0.6907097 -0.63312 -1.9252 0.6910097 -0.632708 -1.924999 0.6907097 -0.632708 -1.9252 0.6907097 -0.63312 -1.924999 0.6910097 -0.63312 -1.924999 0.6910097 -0.633612 -1.924999 0.6907097 -0.632708 -1.924999 0.6907097 -0.633612 -1.9252 0.6907097 -0.63312 -1.924999 0.6910097 -0.63312 -1.9252 0.6910097 -0.633612 -1.924999 0.6907097</float_array>
+          <technique_common>
+            <accessor source="#SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001-mesh-positions-array" count="15" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001-mesh-normals">
+          <float_array id="SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001-mesh-normals-array" count="30">0 0 1 -0.5877045 0 -0.8090757 -0.587325 0 -0.8093512 -0.5881211 0 -0.8087729 -0.587568 0 -0.8091748 0 -0.9999997 8.58645e-4 0.5193205 0 -0.8545796 0.5198045 0 -0.8542852 0.5203486 0 -0.853954 0.518858 0 -0.8548606</float_array>
+          <technique_common>
+            <accessor source="#SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001-mesh-normals-array" count="10" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001-mesh-map-0">
+          <float_array id="SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001-mesh-map-0-array" count="42">0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1 0 0 1 0 1 1</float_array>
+          <technique_common>
+            <accessor source="#SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001-mesh-map-0-array" count="21" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001-mesh-vertices">
+          <input semantic="POSITION" source="#SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001-mesh-positions"/>
+        </vertices>
+        <polylist material="Color_H02_001-material" count="7">
+          <input semantic="VERTEX" source="#SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001-mesh-map-0" offset="2" set="0"/>
+          <vcount>3 3 3 3 3 3 3 </vcount>
+          <p>0 0 0 1 0 1 2 0 2 1 0 3 0 0 4 3 0 5 4 1 6 5 2 7 6 3 8 5 2 9 4 1 10 7 4 11 8 5 12 9 5 13 10 5 14 11 6 15 12 7 16 13 8 17 12 7 18 11 6 19 14 9 20</p>
+        </polylist>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_controllers/>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001" name="SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001" type="NODE">
+        <matrix sid="transform">1 0 0 0 0 1 0 0 0 0 1 0 0 0 0 1</matrix>
+        <instance_geometry url="#SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001-mesh" name="SketchUp_034_ID285_SketchUp_034_ID285_Color_H02_001">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="Color_H02_001-material" target="#Color_H02_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>
