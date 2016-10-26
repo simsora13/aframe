@@ -1,0 +1,14 @@
+# Blender v2.76 (sub 0) OBJ File: 'my building1.blend'
+# www.blender.org
+mtllib SketchUp.058_ID440_SketchUp.058_ID440_material.001.mtl
+o SketchUp.058_ID440_SketchUp.058_ID440_material.001
+v -0.679027 0.700801 1.795683
+v -0.678942 0.700801 1.795434
+v -0.677095 0.702801 1.796201
+vt 0.000000 0.000000
+vt 1.000000 0.000000
+vt 1.000000 1.000000
+vn 0.667000 -0.709400 0.227700
+usemtl material.002
+s 1
+f 1/1/1 2/2/1 3/3/1
