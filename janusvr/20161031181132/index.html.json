@@ -1,0 +1,72 @@
+{
+    "FireBoxRoom": {
+        "Assets": {
+            "AssetImage": [
+                {
+                    "id": "thumb2",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "file:///C:/Users/Ben/Documents/janusvr/workspaces/20161031181132/thumb.jpg",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true
+                }
+            ],
+            "AssetObject": [
+                {
+                    "id": "SketchUp_ID3.004",
+                    "mtl": "SketchUp_ID3.004.mtl",
+                    "src": "SketchUp_ID3.004.obj"
+                }
+            ]
+        },
+        "Room": {
+            "Object": [
+                {
+                    "collider_id": "",
+                    "collision_id": "SketchUp_ID3.004",
+                    "cull_face": "none",
+                    "id": "SketchUp_ID3.004",
+                    "js_id": "0",
+                    "lighting": false,
+                    "pos": "0.8 28 -9.8",
+                    "scale": "12 12 12"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "sphere",
+                    "id": "sphere",
+                    "js_id": "ben-3-1477955986",
+                    "pos": "-1.614249 0 1.048437",
+                    "xdir": "0.058141 0 -0.998308",
+                    "ydir": "0.890156 0.452697 0.051842",
+                    "zdir": "0.451931 -0.891664 0.02632"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "sphere",
+                    "id": "sphere",
+                    "js_id": "ben-4-1477956037",
+                    "pos": "-4.708403 0 12.670794",
+                    "xdir": "-0.992005 -0 -0.126197",
+                    "ydir": "0.124994 0.137736 -0.98255",
+                    "zdir": "0.017382 -0.990469 -0.136635"
+                }
+            ],
+            "fog_col": "#cccccc",
+            "fog_density": 0.20000000298023224,
+            "fog_end": 100,
+            "fog_start": 1,
+            "near_dist": 0.0024999999441206455,
+            "pos": "-14.1 0.4 17.200001",
+            "teleport_min_dist": 5,
+            "use_local_asset": "room_plane",
+            "visible": false,
+            "xdir": "-1 0 -0.000002",
+            "ydir": "0 1 0",
+            "zdir": "0.000002 0 -1"
+        }
+    }
+}
