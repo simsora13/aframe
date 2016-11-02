@@ -1,0 +1,322 @@
+{
+    "FireBoxRoom": {
+        "Assets": {
+            "AssetImage": [
+                {
+                    "id": "thumb10",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "file:///C:/Users/Ben/Documents/janusvr/workspaces/ben Park/thumb.jpg",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true
+                },
+                {
+                    "id": "thumb8",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "file:///C:/Users/Ben/Documents/janusvr/workspaces/20161102154729/thumb.jpg",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true
+                }
+            ],
+            "AssetObject": [
+                {
+                    "id": "Plane.056",
+                    "mtl": "Plane.056.mtl",
+                    "src": "Plane.056.obj"
+                },
+                {
+                    "id": "Plane.058",
+                    "mtl": "Plane.058.mtl",
+                    "src": "Plane.058.obj"
+                },
+                {
+                    "id": "Cube.116",
+                    "mtl": "Cube.116.mtl",
+                    "src": "Cube.116.obj"
+                },
+                {
+                    "id": "Cylinder.019",
+                    "mtl": "Cylinder.019.mtl",
+                    "src": "Cylinder.019.obj"
+                },
+                {
+                    "id": "Cube.028",
+                    "mtl": "Cube.028.mtl",
+                    "src": "Cube.028.obj"
+                },
+                {
+                    "id": "Cylinder.007",
+                    "mtl": "Cylinder.007.mtl",
+                    "src": "Cylinder.007.obj"
+                },
+                {
+                    "id": "Cube.008",
+                    "mtl": "Cube.008.mtl",
+                    "src": "Cube.008.obj"
+                },
+                {
+                    "id": "Plane.062",
+                    "mtl": "Plane.062.mtl",
+                    "src": "Plane.062.obj"
+                },
+                {
+                    "id": "Cylinder.006",
+                    "mtl": "Cylinder.006.mtl",
+                    "src": "Cylinder.006.obj"
+                },
+                {
+                    "id": "Plane.063",
+                    "mtl": "Plane.063.mtl",
+                    "src": "Plane.063.obj"
+                },
+                {
+                    "id": "Plane.060",
+                    "mtl": "Plane.060.mtl",
+                    "src": "Plane.060.obj"
+                },
+                {
+                    "id": "Plane.047",
+                    "mtl": "Plane.047.mtl",
+                    "src": "Plane.047.obj"
+                },
+                {
+                    "id": "Plane.059",
+                    "mtl": "Plane.059.mtl",
+                    "src": "Plane.059.obj"
+                },
+                {
+                    "id": "Cube_Cube.001",
+                    "mtl": "Cube_Cube.001.mtl",
+                    "src": "Cube_Cube.001.obj"
+                },
+                {
+                    "id": "Cylinder.017",
+                    "mtl": "Cylinder.017.mtl",
+                    "src": "Cylinder.017.obj"
+                },
+                {
+                    "id": "Cylinder.018",
+                    "mtl": "Cylinder.018.mtl",
+                    "src": "Cylinder.018.obj"
+                },
+                {
+                    "id": "Cylinder.015",
+                    "mtl": "Cylinder.015.mtl",
+                    "src": "Cylinder.015.obj"
+                },
+                {
+                    "id": "Cube.009",
+                    "mtl": "Cube.009.mtl",
+                    "src": "Cube.009.obj"
+                },
+                {
+                    "id": "Plane.057",
+                    "mtl": "Plane.057.mtl",
+                    "src": "Plane.057.obj"
+                },
+                {
+                    "id": "Plane.061",
+                    "mtl": "Plane.061.mtl",
+                    "src": "Plane.061.obj"
+                },
+                {
+                    "id": "Cylinder.016",
+                    "mtl": "Cylinder.016.mtl",
+                    "src": "Cylinder.016.obj"
+                }
+            ]
+        },
+        "Room": {
+            "Link": [
+                {
+                    "col": "#99ff99",
+                    "js_id": "0",
+                    "pos": "0 0.1 8.900001",
+                    "scale": "1.9 2.3 1.3",
+                    "title": "VR Stuff",
+                    "url": "https://simsora13.github.io/janusvr/room/BEN/index.html",
+                    "xdir": "-1 0 -0.000002",
+                    "ydir": "0 1 0",
+                    "zdir": "0.000002 0 -1"
+                }
+            ],
+            "Object": [
+                {
+                    "collider_id": "",
+                    "collision_id": "Cube.009",
+                    "id": "Cube.009",
+                    "js_id": "1",
+                    "lighting": false,
+                    "pos": "-11.44125 0 0.749583"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Cube.028",
+                    "id": "Cube.028",
+                    "js_id": "2",
+                    "lighting": false,
+                    "pos": "0.981678 1.078208 3.451349"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Cube.008",
+                    "id": "Cube.008",
+                    "js_id": "3",
+                    "lighting": false,
+                    "pos": "-11.44125 0 -0.250417"
+                },
+                {
+                    "collider_id": "",
+                    "id": "Cube.116",
+                    "js_id": "4",
+                    "lighting": false,
+                    "pos": "11 0 8"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Cube_Cube.001",
+                    "id": "Cube_Cube.001",
+                    "js_id": "5",
+                    "lighting": false,
+                    "pos": "8 0 -3"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Cylinder.015",
+                    "id": "Cylinder.015",
+                    "js_id": "6",
+                    "pos": "10.680744 0.1 1.242646"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Cylinder.016",
+                    "id": "Cylinder.016",
+                    "js_id": "7",
+                    "pos": "0.246838 0.1 -4.609457"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Cylinder.017",
+                    "id": "Cylinder.017",
+                    "js_id": "8",
+                    "pos": "-10.798222 0.1 1.242646"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Plane.047",
+                    "id": "Plane.047",
+                    "js_id": "9",
+                    "lighting": false,
+                    "pos": "0 0 1.5"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Plane.056",
+                    "id": "Plane.056",
+                    "js_id": "10",
+                    "pos": "-8 0.85 2.580285"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Plane.057",
+                    "id": "Plane.057",
+                    "js_id": "11",
+                    "pos": "-8 0.85 5.580285"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Plane.058",
+                    "id": "Plane.058",
+                    "js_id": "12",
+                    "pos": "10.977291 0.7 -0.279944"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Plane.059",
+                    "id": "Plane.059",
+                    "js_id": "13",
+                    "pos": "10.977291 0.7 2.837733"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Plane.060",
+                    "id": "Plane.060",
+                    "js_id": "14",
+                    "pos": "1.841927 0.7 -4.906004"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Plane.061",
+                    "id": "Plane.061",
+                    "js_id": "15",
+                    "pos": "-1.275753 0.7 -4.906005"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Plane.062",
+                    "id": "Plane.062",
+                    "js_id": "16",
+                    "pos": "-8 0.85 -0.669742"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Plane.063",
+                    "id": "Plane.063",
+                    "js_id": "17",
+                    "pos": "-8 0.85 -3.669742"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Cylinder.006",
+                    "id": "Cylinder.006",
+                    "js_id": "18",
+                    "lighting": false,
+                    "pos": "-5.065453 1.101936 -4.309591"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Cylinder.007",
+                    "id": "Cylinder.007",
+                    "js_id": "19",
+                    "lighting": false,
+                    "pos": "11.491917 1 8.475039"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Cylinder.018",
+                    "id": "Cylinder.018",
+                    "js_id": "20",
+                    "lighting": false,
+                    "pos": "11.447903 1 -5.367467"
+                },
+                {
+                    "collider_id": "",
+                    "collision_id": "Cylinder.019",
+                    "id": "Cylinder.019",
+                    "js_id": "21",
+                    "lighting": false,
+                    "pos": "-11.366135 0.999999 -5.439783"
+                }
+            ],
+            "fog_col": "#cccccc",
+            "fog_density": 0.20000000298023224,
+            "fog_end": 100,
+            "fog_start": 1,
+            "near_dist": 0.0024999999441206455,
+            "pos": "7.5 0 -2",
+            "teleport_min_dist": 5,
+            "use_local_asset": "room_plane",
+            "visible": false,
+            "xdir": "1 0 0",
+            "ydir": "0 1 0",
+            "zdir": "0 0 1"
+        }
+    }
+}
