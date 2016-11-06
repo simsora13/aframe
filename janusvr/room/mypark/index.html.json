@@ -3,11 +3,11 @@
         "Assets": {
             "AssetImage": [
                 {
-                    "id": "KKS",
+                    "id": "thumb4",
                     "ou3d": false,
                     "reverse3d": false,
                     "sbs3d": false,
-                    "src": "https://67.media.tumblr.com/62b379dc2173290505a8c46df5ea91ab/tumblr_n8bnkd6yUx1sux2x1o1_250.gif",
+                    "src": "file:///C:/Users/Ben/Documents/janusvr/workspaces/mypark/thumb.jpg",
                     "tex_clamp": false,
                     "tex_compress": false,
                     "tex_linear": true,
@@ -47,17 +47,6 @@
                     "tex_mipmap": true
                 },
                 {
-                    "id": "http://play.pokemonshowdown.com/sprites/xyani/breloom.gif",
-                    "ou3d": false,
-                    "reverse3d": false,
-                    "sbs3d": false,
-                    "src": "http://play.pokemonshowdown.com/sprites/xyani/breloom.gif",
-                    "tex_clamp": false,
-                    "tex_compress": false,
-                    "tex_linear": true,
-                    "tex_mipmap": true
-                },
-                {
                     "id": "http://play.pokemonshowdown.com/sprites/xyani/umbreon.gif",
                     "ou3d": false,
                     "reverse3d": false,
@@ -69,11 +58,22 @@
                     "tex_mipmap": true
                 },
                 {
-                    "id": "thumb4",
+                    "id": "KKS",
                     "ou3d": false,
                     "reverse3d": false,
                     "sbs3d": false,
-                    "src": "file:///C:/Users/Ben/Documents/janusvr/workspaces/20161105185437/thumb.jpg",
+                    "src": "https://67.media.tumblr.com/62b379dc2173290505a8c46df5ea91ab/tumblr_n8bnkd6yUx1sux2x1o1_250.gif",
+                    "tex_clamp": false,
+                    "tex_compress": false,
+                    "tex_linear": true,
+                    "tex_mipmap": true
+                },
+                {
+                    "id": "http://play.pokemonshowdown.com/sprites/xyani/breloom.gif",
+                    "ou3d": false,
+                    "reverse3d": false,
+                    "sbs3d": false,
+                    "src": "http://play.pokemonshowdown.com/sprites/xyani/breloom.gif",
                     "tex_clamp": false,
                     "tex_compress": false,
                     "tex_linear": true,
@@ -83,8 +83,8 @@
             "AssetObject": [
                 {
                     "id": "Cylinder.004",
-                    "mtl": "Cylinder.004.mtl",
-                    "src": "Cylinder.004.obj"
+                    "mtl": "Cube.009.mtl",
+                    "src": "Cube.009.obj"
                 }
             ]
         },
@@ -146,7 +146,7 @@
                     "id": "Cylinder.004",
                     "js_id": "6",
                     "lighting": false,
-                    "pos": "6.2 1 0"
+                    "pos": "-11.5 0 0.9"
                 },
                 {
                     "col": "#00a800",
