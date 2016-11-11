@@ -1,0 +1,28 @@
+# Blender MTL File: 'room.blend'
+# Material Count: 2
+
+newmtl phong8
+Ns 96.078431
+Ka 0.784314 0.784314 0.784314
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd phong8.png
+map_Ka phong8.png
+map_d phong8.png
+
+newmtl phong9
+Ns 96.078431
+Ka 0.784314 0.784314 0.784314
+Kd 0.972549 0.972549 0.972549
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd phong9.png
+map_Ka phong9.png
+map_d phong9.png
